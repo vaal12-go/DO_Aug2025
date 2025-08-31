@@ -7,15 +7,15 @@ Simple API for imaginary cats with missions and targets
 
 Clone this repo:
 
-    `git clone https://github.com/vaal12-go/DO_Aug2025.git`
+    git clone https://github.com/vaal12-go/DO_Aug2025.git
 
 Install dependencies:
 
-    `go mod download`
+    go mod download
 
 Run server:
 
-    `go run main.go`
+    go run main.go
 
 Can use optional -port parameter to specify port on which server will run
 Custom log will appear in custom.log file in the root directory
