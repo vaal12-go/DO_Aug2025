@@ -1,0 +1,9 @@
+assessment.txt
+notes.txt
+*.sqlite3
+
+tmp/*.exe
+tmp/build-errors.log
+handlers/mission_handlers.go
+tmp/main.exe~
+custom.log
